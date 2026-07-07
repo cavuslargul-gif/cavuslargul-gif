@@ -13,4 +13,4 @@ I automate business processes with **n8n, Make and AI** — and I document every
 
 **Background:** career changer — 7 years in retail, a Master of Education, and certified retail management specialist. I know the real-world processes behind the workflows I build.
 
-📍 Berlin · 🌐 [guel-cavuslar.netlify.app](https://guel-cavuslar.netlify.app) · 💼 [LinkedIn](https://www.linkedin.com/in/guelcavuslar)
+📍 Berlin · 💼 [LinkedIn](https://www.linkedin.com/in/guelcavuslar)
