@@ -14,8 +14,8 @@ I automate business processes with **n8n and AI**, and I document what I learn i
 
 **Tools & basics:** n8n (focus, daily), Groq/OpenAI APIs, webhooks, REST APIs · Make (basics) · Python fundamentals (data structures, functions, validation, file logging; MCP servers set up and debugged) · JavaScript in n8n Code nodes · HTML — learning via Data With Baraa and freeCodeCamp
 
-**Currently:** looking for a position in process and AI automation, built around n8n. Every workflow in the portfolio runs on mock data, but the use cases come from processes I know from real operations. None has run for a live customer yet. Next: finishing my first Python projects.
+**Currently:** looking for a position in process and AI automation, built around n8n. Every workflow in the portfolio runs on mock data, none for a live customer yet. Next: finishing my first Python projects.
 
-**Background:** career changer — public administration, Jobcenter, retail, education (M.Ed.) and hospitality. 7 years in retail, plus Meister im Handel and the trainer qualification (Ausbilderschein); the curriculum covered merchandise management systems and business KPIs. Each workflow in the portfolio maps to one of these domains, so I know the real-world processes behind them.
+**Background:** career changer — 7 years in retail, a Master of Education, and certified retail management specialist. I know the real-world processes behind the workflows I build.
 
 📍 Berlin · 💼 [LinkedIn](https://www.linkedin.com/in/guelcavuslar)
