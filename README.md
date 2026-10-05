@@ -5,7 +5,7 @@ I automate business processes with **n8n and AI**, and I document what I learn i
 **What I've built since May 2026:**
 
 - 🔧 [n8n-automation-portfolio](https://github.com/cavuslargul-gif/n8n-automation-portfolio) — 15 documented workflows, from a Jobcenter age router to an enterprise RAG chat, each with a README and a tested failure case
-- 📊 Two eval suites that measure AI output instead of assuming it: 29 labeled cases for sentiment (92% → 100% after a sarcasm fix, with Mockdata), 25 for inquiry routing
+- 📊 Two eval suites that measure AI output instead of assuming it: 29 labeled cases for sentiment (92% → 100% after a sarcasm fix, with mock data), 25 for inquiry routing
 - 🐛 Bugs found by feeding workflows bad input, not by reading code: a date read with day and month swapped, a run that ended "success" with no email sent
 - ✅ A [production-readiness checklist](https://github.com/cavuslargul-gif/n8n-automation-portfolio/blob/main/PRODUCTION-CHECKLIST.md) I hold my own work against, including the gaps
 - 📚 [Worksheets](https://github.com/cavuslargul-gif/n8n-automation-portfolio/tree/main/worksheets) — project lifecycle, AI-node error handling, logging architecture and rollout checklist as standalone reference documents (German)
