@@ -16,6 +16,6 @@ I automate business processes with **n8n and AI**, and I document what I learn i
 
 **Currently:** looking for a position in process and AI automation, built around n8n. Every workflow in the portfolio runs on mock data, but the use cases come from processes I know from real operations. None has run for a live customer yet. Next: finishing my first Python projects.
 
-**Background:** career changer — public administration, Jobcenter, retail, education (M.Ed.) and hospitality. 7 years in retail, plus Meister im Handel and the trainer qualification (Ausbilderschein); the curriculum covered merchandise management systems and business KPIs. Each workflow in the portfolio maps to one of these domains, so I know the real-world processes behind them.
+**Background:** career changer — public administration, Jobcenter, retail, education (M.Ed.) and hospitality. 7 years in retail, plus "Geprüfte Handelsfachwirtin" and the trainer qualification (Ausbilderschein); the curriculum covered merchandise management systems and business KPIs. Each workflow in the portfolio maps to one of these domains, so I know the real-world processes behind them.
 
 📍 Berlin · 💼 [LinkedIn](https://www.linkedin.com/in/guelcavuslar)
